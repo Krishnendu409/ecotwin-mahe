@@ -2,12 +2,14 @@
 
 [![CHEMIGNITE 2026](https://img.shields.io/badge/CHEMIGNITE-2026%20Hackathon-10B981.svg)](https://manipal.edu)
 [![MAHE](https://img.shields.io/badge/MAHE-MIT%20Manipal-06B6D4.svg)](https://manipal.edu)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-brightgreen.svg)](https://krishnendu409.github.io/ecotwin-mahe/)
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 > **Official Hackathon Submission for CHEMIGNITE 2026 — ASPIRE Sustainability Hackathon**  
 > **Organizers:** Innovation Centre MAHE & School of Civil & Chemical Engineering (SCCE), MIT Manipal  
-> **Authors:** **Krishnendu** (CSE, MIT Manipal) & **Arav Aggarwal** (Civil Engg., SCCE, MIT Manipal)
+> **Authors:** **Krishnendu** (CSE, MIT Manipal) & **Arav Aggarwal** (Civil Engg., SCCE, MIT Manipal)  
+> 🌐 **Live Interactive Digital Twin Demo:** [https://krishnendu409.github.io/ecotwin-mahe/](https://krishnendu409.github.io/ecotwin-mahe/)
 
 ---
 
